@@ -1,4 +1,11 @@
 # E09a-Scripting
+--------------------------------------
+Updated readme and license
+Followed through project editing the scripts as needed, and end screen, lives, and scoring
+
+
+---------------------------------------
+
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
 
